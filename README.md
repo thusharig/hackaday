@@ -12,5 +12,5 @@ this folder contains all the materials from SLIIT hackaday workshop
 ### IRC
 ### bitcoin
 ### metagoofil
-### Analyzing deleted JPEG
+### Analyzing Deleted JPEGs
 ### Practical Guide to Alternative Data Streams in NTFS
