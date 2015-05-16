@@ -6,5 +6,9 @@ this folder contains all the materials from SLIIT hackaday workshop
 
 ### camera hakcing
 
-
+### github
+### google hacking
+### dark sites
+### IRC
+### bitcoin
 
